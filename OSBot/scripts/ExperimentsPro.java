@@ -20,9 +20,6 @@ public class ExperimentsPro extends Script {
 	private final Color color2 = new Color(0, 51, 255);
 	private final BasicStroke stroke1 = new BasicStroke(2);
 	private final Font font1 = new Font("Verdana", 2, 18);
-	// 1677, 1678
-	// Center tile, = 3559, 9947, 0
-	// 311 350 rect...
 	final int[] EXPERIMENTS = { 1678, 1677 };
 	final int[] POTIONS = {};
 	long startTime;
