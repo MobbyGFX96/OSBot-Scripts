@@ -3,6 +3,5 @@
 	<classpathentry kind="src" output="scripts" path="scripts"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="C:/Users/Corey/Desktop/osbot.jar"/>
-	<classpathentry kind="lib" path="twinkle libs.jar"/>
 	<classpathentry kind="output" path="scripts"/>
 </classpath>
